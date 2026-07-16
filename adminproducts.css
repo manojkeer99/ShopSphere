@@ -1,0 +1,73 @@
+.admin-products{
+
+    padding:40px;
+
+}
+
+
+
+.admin-title{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+
+.admin-title a{
+
+    padding:10px 20px;
+
+    text-decoration:none;
+
+}
+
+
+
+table{
+
+    width:100%;
+
+    margin-top:30px;
+
+    border-collapse:collapse;
+
+}
+
+
+
+th,td{
+
+    padding:15px;
+
+    text-align:center;
+
+    border-bottom:1px solid #ddd;
+
+}
+
+
+
+td img{
+
+    width:60px;
+
+    height:60px;
+
+    object-fit:contain;
+
+}
+
+
+
+td button{
+
+    margin-left:15px;
+
+    cursor:pointer;
+
+}

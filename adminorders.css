@@ -1,0 +1,38 @@
+.admin-orders{
+
+    padding:40px;
+
+}
+
+
+
+.admin-orders table{
+
+    width:100%;
+
+    margin-top:30px;
+
+    border-collapse:collapse;
+
+}
+
+
+
+.admin-orders th,
+.admin-orders td{
+
+    padding:15px;
+
+    border-bottom:1px solid #ddd;
+
+    text-align:center;
+
+}
+
+
+
+.admin-orders select{
+
+    padding:8px;
+
+}

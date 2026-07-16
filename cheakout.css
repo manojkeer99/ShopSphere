@@ -1,0 +1,43 @@
+.checkout-page{
+
+    padding:40px;
+
+}
+
+
+
+.checkout-page form{
+
+    max-width:600px;
+
+    margin:auto;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+
+.checkout-page input,
+.checkout-page textarea,
+.checkout-page select{
+
+    padding:12px;
+
+    font-size:16px;
+
+}
+
+
+
+.checkout-page button{
+
+    padding:12px;
+
+    cursor:pointer;
+
+}

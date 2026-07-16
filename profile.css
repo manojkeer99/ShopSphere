@@ -1,0 +1,53 @@
+.profile-page{
+
+    padding:50px;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+
+
+.profile-card{
+
+    width:400px;
+
+    padding:30px;
+
+    text-align:center;
+
+    box-shadow:0 2px 10px #ddd;
+
+}
+
+
+
+.profile-icon{
+
+    font-size:60px;
+
+}
+
+
+
+.profile-links{
+
+    margin-top:20px;
+
+}
+
+
+
+.profile-links a{
+
+    text-decoration:none;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:10px;
+
+}

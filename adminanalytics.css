@@ -1,0 +1,53 @@
+.analytics-page{
+
+    padding:40px;
+
+}
+
+
+
+.analytics-cards{
+
+    display:grid;
+
+    grid-template-columns:
+
+    repeat(4,1fr);
+
+    gap:25px;
+
+}
+
+
+
+.analytics-card{
+
+    padding:30px;
+
+    text-align:center;
+
+    box-shadow:0 2px 10px #ddd;
+
+}
+
+
+
+.analytics-card svg{
+
+    font-size:40px;
+
+}
+
+
+
+@media(max-width:900px){
+
+.analytics-cards{
+
+    grid-template-columns:
+
+    repeat(2,1fr);
+
+}
+
+}
